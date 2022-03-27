@@ -1,0 +1,31 @@
+      body{
+        background-color: #fff;
+      }
+      .menu-form{
+        margin: 53px auto;
+        padding: 30px 31px;
+        background: #fff;
+       box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+      
+      }
+      .menu-form h2{
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+      }
+      .medal{
+        margin: 53px auto;
+        padding: 30px 31px;
+        background: #fff;
+       box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+      
+      }
+      .medal h2{
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+      }

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+      body{
+        background-color: #fff;
+      }
+      .register-form{
+        margin: 50px auto;
+        padding: 25px 20px;
+        background: #fff;
+       box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+      
+      }
+      .register-form h2{
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+      }
+      .p{
+      	color: #000000;
+      }
+      .fontst{
+      font-family: 'Kanit', sans-serif;
+      font-color: #000000;
+      }
+      .selectS{
+      	
+      }
